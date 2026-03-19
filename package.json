@@ -1,0 +1,17 @@
+{
+  "name": "@openclaw/clawnet",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "OpenClaw plugin that inspects ClawHub skill installs with an LLM safety check.",
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "devDependencies": {
+    "openclaw": "^2026.2.15"
+  },
+  "peerDependencies": {
+    "openclaw": ">=2026.2.0"
+  }
+}
