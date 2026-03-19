@@ -5,7 +5,7 @@ ClawNet is an OpenClaw plugin that adds a safety review step to skill installati
 
 ## Why We Created ClawNet 
 
-ClawNet was created as part of our research into the ClawHub download and installation flow, where we explored how community-delivered skills could introduce risk into agent environments. This plugin is a practical outcome of that work: a lightweight safeguard designed to review skill installs before they are allowed to proceed. [You can read the full research here.]()
+ClawNet was created as part of our research into the ClawHub download and installation flow, where we explored how community-delivered skills could introduce risk into agent environments. This plugin is a practical outcome of that work: a lightweight safeguard designed to review skill installs before they are allowed to proceed. [You can read the full research here.](https://www.silverfort.com/blog/clawhub-vulnerability-enables-attackers-to-manipulate-rankings-to-become-the-number-one-skill/)
 
 ## How It Works
 
